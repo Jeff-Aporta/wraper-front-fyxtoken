@@ -45,8 +45,13 @@ npm run deploy-start
 ---
 
 <h1>Con Wrapper</h1>
-<br/>
-<img src="static/con-wrapper.svg" alt="Con Wrapper" width="100%" />
+<p align="center">
+  <img src="static/con-wrapper.svg" alt="Con Wrapper" width="400px" />
+</p>
+
 <h1>Sin Wrapper</h1>
+
 <br/>
-<img src="static/sin-wrapper.svg" alt="Sin Wrapper" width="100%"  />
+<p align="center">
+    <img src="static/sin-wrapper.svg" alt="Sin Wrapper" width="400px"  />
+</p>
