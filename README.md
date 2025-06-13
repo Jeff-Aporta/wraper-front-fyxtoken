@@ -4,9 +4,9 @@
   <img src="https://fyxtokentech.github.io/frontend-fyxtoken/img/metadata/logo-main.svg" alt="Fyxtoken Logo" width="200" />
 </p>
 
-[![License](https://img.shields.io/badge/License-Private-red)](LICENSE)  
-[![NestJS](https://img.shields.io/badge/NestJS-11.0.1-e0234e)](https://nestjs.com)  
-[![Node.js](https://img.shields.io/badge/Node.js-%3E%3D16-brightgreen)](https://nodejs.org)
+<p align="center">
+ <img src="https://img.shields.io/badge/License-Private-red" alt="LICENSE"/> <img src="https://img.shields.io/badge/NestJS-11.0.1-e0234e" alt="NestJS"/> <img src="https://img.shields.io/badge/Node.js-%3E%3D16-brightgreen" alt="Node.js"/>
+</p>
 
 ## Descripción
 
@@ -44,7 +44,11 @@ npm run deploy-start
 
 ---
 
+<h1>Con Wrapper</h1>
 <p align="center">
-  <img src="static/con-wrapper.svg" alt="Con Wrapper" width="200" />
-  <img src="static/sin-wrapper.svg" alt="Sin Wrapper" width="200" />
+  <img src="static/con-wrapper.svg" alt="Con Wrapper" />
+</p>
+<h1>Sin Wrapper</h1>
+<p align="center">
+<img src="static/sin-wrapper.svg" alt="Sin Wrapper"  />
 </p>
